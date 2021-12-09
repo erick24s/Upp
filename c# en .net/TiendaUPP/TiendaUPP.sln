@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaUPP", "TiendaUPP\TiendaUPP.csproj", "{0372CBFD-286E-40F7-AD09-0A3CA168691C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIbreria", "LIbreria\LIbreria.csproj", "{15919795-8A32-4194-AB92-9528A6230D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0372CBFD-286E-40F7-AD09-0A3CA168691C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0372CBFD-286E-40F7-AD09-0A3CA168691C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0372CBFD-286E-40F7-AD09-0A3CA168691C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0372CBFD-286E-40F7-AD09-0A3CA168691C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15919795-8A32-4194-AB92-9528A6230D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15919795-8A32-4194-AB92-9528A6230D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15919795-8A32-4194-AB92-9528A6230D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15919795-8A32-4194-AB92-9528A6230D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5548A9B9-8045-4837-89C1-5AFCE6AA50E3}
+	EndGlobalSection
+EndGlobal

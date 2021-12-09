@@ -1,0 +1,9 @@
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaDatos\obj\Debug\CapaDatos.pdb

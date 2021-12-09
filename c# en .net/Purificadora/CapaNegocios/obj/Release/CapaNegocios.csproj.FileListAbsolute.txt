@@ -1,0 +1,11 @@
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\bin\Release\CapaNegocios.dll
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\bin\Release\CapaNegocios.pdb
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\bin\Release\CapaDatos.dll
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\bin\Release\CapaEntidades.dll
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\bin\Release\CapaDatos.pdb
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\bin\Release\CapaEntidades.pdb
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\obj\Release\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\obj\Release\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\obj\Release\CapaNegocios.csproj.CopyComplete
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\obj\Release\CapaNegocios.dll
+C:\Users\erick22\Documents\Visual Studio 2022\Proyectos\Purificadora\CapaNegocios\obj\Release\CapaNegocios.pdb

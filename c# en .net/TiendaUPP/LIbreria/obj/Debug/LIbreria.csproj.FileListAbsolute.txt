@@ -1,0 +1,6 @@
+C:\Users\oscar\source\repos\TiendaUPP\LIbreria\bin\Debug\LIbreria.dll
+C:\Users\oscar\source\repos\TiendaUPP\LIbreria\bin\Debug\LIbreria.pdb
+C:\Users\oscar\source\repos\TiendaUPP\LIbreria\obj\Debug\LIbreria.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\TiendaUPP\LIbreria\obj\Debug\LIbreria.dll
+C:\Users\oscar\source\repos\TiendaUPP\LIbreria\obj\Debug\LIbreria.pdb
+C:\Users\oscar\source\repos\TiendaUPP\LIbreria\obj\Debug\LIbreria.csprojAssemblyReference.cache
